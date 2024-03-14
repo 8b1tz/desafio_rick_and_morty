@@ -89,3 +89,43 @@ cd app
 ```
 flask --app app run
 ```
+
+
+### Telas:
+
+#### /home
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/fb3706a9-4967-43d0-9c77-990549a34b6e" width="500">
+
+- A tela /home representa a página inicial do aplicativo, onde os usuários são recebidos ao acessar a plataforma. Esta tela pode incluir informações sobre o universo de Rick and Morty, destaques de episódios ou uma visão geral das últimas aventuras.
+
+#### /episodes 
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/0eacd94e-9d07-42b5-a831-fbb9ff431a56" width="500">
+
+- A tela /episodes exibe uma lista de episódios disponíveis da série Rick and Morty. Os usuários podem explorar e descobrir novos episódios nesta página. Dependendo da implementação, pode haver opções de filtro ou ordenação para ajudar os usuários a encontrar os episódios desejados.
+
+#### /episode/{id} 
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/138fe046-b2a0-405e-9190-bef4033e8896" width="500">
+
+- A tela /episode/{id} exibe informações detalhadas sobre um episódio específico da série Rick and Morty, identificado pelo seu ID. Os usuários podem encontrar detalhes como título do episódio, sinopse, data de lançamento, entre outros.
+
+#### /profiles
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/659a89b7-1462-446f-b6db-df270269101e" width="500">
+
+- A tela /profiles exibe uma lista de perfis de personagens da série Rick and Morty. Os usuários podem explorar e descobrir informações sobre diferentes personagens nesta página.
+
+#### /profile/{id}
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/aa4b0fa1-a333-4aa7-9b4a-a0aeebda0224" width="500">
+
+- A tela /profile/{id} exibe informações detalhadas sobre um personagem específico da série Rick and Morty, identificado pelo seu ID. Os usuários podem encontrar detalhes como nome, status, espécie, entre outros.
+
+#### /locations
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/78712e0d-2468-48a1-bace-56843ebef6c2" width="500">
+
+- A tela /locations exibe uma lista de locais da série Rick and Morty. Os usuários podem explorar e descobrir informações sobre diferentes locais nesta página.
+
+#### /location/{îd}
+<img src="https://github.com/8b1tz/desafio_rick_and_morty/assets/53948477/0bb098ab-3993-487c-9808-9d6d86671ca3" width="500">
+
+- A tela /location/{id} exibe informações detalhadas sobre um local específico da série Rick and Morty, identificado pelo seu ID. Os usuários podem encontrar detalhes como nome, tipo, dimensão, entre outros.
+
+
